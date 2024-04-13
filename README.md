@@ -1,0 +1,1 @@
+# coinbase-smart-contract.sol
